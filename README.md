@@ -47,7 +47,7 @@ I'm always open to discussing technology, collaboration opportunities, or just c
   <a href="mailto:tsotetsi.will@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/willtsotetsi">
+  <a href="https://linkedin.com/in/will-tsotetsi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/will_totes">
