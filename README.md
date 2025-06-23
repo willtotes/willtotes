@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Will Tsotetsi! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a learner of the **ALX Software Engineering Program**, currently focused on back-end engineering. I want to revamp my GitHub Profile to make it stand out from the crowd in my job search.
 
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
