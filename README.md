@@ -11,13 +11,15 @@ I aim to become a **professional backend engineer** who builds secure, scalable 
 
 ## My Skills 🧠
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Django REST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
+  <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="UBUNTU"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCODE"/>
+</div>
 
 ## What I'm Looking to work on 💼
 - 🌐 API Development — RESTful and GraphQL APIs for impactful web platforms
@@ -30,8 +32,8 @@ I aim to become a **professional backend engineer** who builds secure, scalable 
   <img src="https://img.shields.io/badge/ALX-Software_Engineering-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="ALX"/>
   <img src="https://img.shields.io/badge/Specialization-Backend_Engineering-4ECDC4?style=for-the-badge&logo=server&logoColor=white" alt="Backend"/>
 </div>
-Cohort: Cohort 6 | 2025
-Specialisation: Backend Engineering
+<p>Cohort: Cohort 6 | 2025</p>
+<p>Specialisation: Backend Engineering</p>
 
 ## GitHub Stats 📊
 
